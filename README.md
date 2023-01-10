@@ -1,12 +1,8 @@
 # DataAnalysisLibrary
 
-* The link to the youtube video with your video presentation
-youtube_link: https://youtu.be/6IawpJZVb4E
-* A list of comma separated tags that describe your project
-* The list of possible tags is: game, data analysis/visualization, library, algorithms, assignment extension, application, misc
-* An example would be 'tags: data analysis/visualization, application'
-tags: 'tags: data/analysis, visualization, library, application'
-* A summary of your project
+* The link to the youtube video with a video presentation: https://youtu.be/6IawpJZVb4E
+
+* A summary of the project
 abstract:
 
 This project contains a library of data visualization functions that are able to take a .csv file from command line and 
