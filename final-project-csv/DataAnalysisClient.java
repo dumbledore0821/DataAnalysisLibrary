@@ -1,5 +1,5 @@
 /*
- * TODO: Add your own description for this .java file.
+ * This client class is used to read in a .csv file and plot its data onto a graphical display.
  *
  * To include all .jar files in lib and .lift folders, here are the
  * operating-system specific compile and execution commands:
